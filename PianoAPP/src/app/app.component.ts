@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PianoAPP';
+<<<<<<< HEAD
 
   tocarNota(numero: number): void {
     const nota = new Audio()
@@ -15,4 +16,6 @@ export class AppComponent {
     nota.play()
   }
 
+=======
+>>>>>>> 521a4cda81c5f29cd3c8672d0042ab799a1dc489
 }
