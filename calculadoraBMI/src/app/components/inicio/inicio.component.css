@@ -1,0 +1,50 @@
+.fondo-item {
+  background-color: #ff111328;
+  height: 130px;
+  border-radius: 20px;
+  color: aliceblue;
+}
+
+.sexo {
+  font-size: 50px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  background: #ff3366;
+}
+
+.centimetro {
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: -5px;
+}
+
+.estilo-numero {
+  font-size: 32px;
+  font-weight: 800;
+  margin-top: -30px;
+}
+
+.btn-color {
+  background-color: #ff3366;
+  border-color: #ff3366;
+  border-radius: 25px;
+  width: 100%;
+}
+
+.btn-color:hover {
+  background-color: #ff3366;
+  border-color: #ff3366;
+}
+
+.suma-resta {
+  cursor: pointer;
+  background-color: #ff4c4f5e;
+  padding: 7px;
+  border-radius: 15px;
+  margin-left: 3px;
+}
+
+.sexo-inactivo {
+  background-color: #46272733;
+}

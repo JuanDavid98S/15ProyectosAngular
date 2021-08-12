@@ -1,0 +1,38 @@
+.fondo-item {
+  background-color: #ff111328;
+  height: 430px;
+  border-radius: 20px;
+  color: aliceblue;
+}
+
+.btn-color {
+  background-color: #ff3366;
+  border-color: #ff3366;
+  border-radius: 25px;
+  width: 100%;
+}
+
+.btn-color:hover {
+  background-color: #ff3366;
+  border-color: #ff3366;
+}
+
+.resultado {
+  color: palevioletred;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.estilo-numero {
+  font-size: 80px;
+  font-weight: 700;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.interpretacion {
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+}
